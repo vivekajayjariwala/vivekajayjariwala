@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and project management
 - 🌱 I’m currently learning software engineering and business at Western University 
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: @vivekjariwala_ on Instagram 
+- 📫 How to reach me: vivekajayjariwala@gmail.com
 
 <!---
 vivekajayjariwala/vivekajayjariwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
